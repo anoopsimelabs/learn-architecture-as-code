@@ -1,0 +1,16 @@
+# Ignore log files
+*.log
+
+# Ignore Java class and jar files
+*.class
+*.jar
+
+# Ignore IDE/editor folders
+.idea/
+.vscode/
+
+# Ignore Structurizr Lite generated files and indexes
+architecture/.structurizr/
+
+# Ignore ADR tool metadata
+.adr-dir
