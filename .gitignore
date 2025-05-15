@@ -11,6 +11,7 @@
 
 # Ignore Structurizr Lite generated files and indexes
 architecture/.structurizr/
+architecture/workspace.json
 
 # Ignore ADR tool metadata
 .adr-dir
